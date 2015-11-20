@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SoMemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description_image1">ein bild</string>
+    <string name="card_back_title">ein bild back</string>
+    <string name="card_back_description">eine bild back beschreibung</string>
+
+
+</resources>
