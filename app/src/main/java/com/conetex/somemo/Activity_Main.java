@@ -849,6 +849,7 @@ public class Activity_Main extends Activity { // ActionBarActivity
         int[] card_images = savedInstanceState.getIntArray(CARD_IMAGES);
         int[] card_sounds = savedInstanceState.getIntArray(CARD_SOUNDS);
         int[] card_sound_positions = savedInstanceState.getIntArray(CARD_SOUND_POS);
+        nur so nen commenz ...
         */
         if(sizes.length() > 4) {
             StringTokenizer sizeTokens = new StringTokenizer(sizes, DELIMITER);
